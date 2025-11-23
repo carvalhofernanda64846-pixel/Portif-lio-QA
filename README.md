@@ -20,8 +20,8 @@
 - [Tabela de valor limite](https://drive.google.com/file/d/1iq5hAYmG7HSiW58e1QOrvx7z4pgsSadu/view?usp=sharing)
 - [Tabela de partição de equivalência](https://drive.google.com/file/d/1AsVWKQNNnj-Npc3aMLpsRFCODqyKkbiR/view?usp=sharing)
 - [Tabela de bugs](https://drive.google.com/file/d/16mE1DO4HotHTbWeeG8khEWJOqoMZX_hO/view?usp=sharing)
-- [Tabela de API manual - Login](https://drive.google.com/file/d/17CtzjKjx31NNn70PC1r6fbr_uNQ1jxef/view?usp=sharing)
-- [Tabela de API manual - Cadastro](https://drive.google.com/file/d/1S4DqHpkqucggu8h-VbeX8xOE6FSBkbll/view?usp=sharing)
+- [Tabela de API manual - Login](https://drive.google.com/file/d/1W_ATspBh8UBcv4V7cuM1Scigcb-YbRs2/view?usp=sharing)
+- [Tabela de API manual - Cadastro](https://drive.google.com/file/d/17CtzjKjx31NNn70PC1r6fbr_uNQ1jxef/view?usp=sharing)
 
 ---
 
