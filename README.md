@@ -21,7 +21,7 @@
 - [Tabela de partição de equivalência](https://drive.google.com/file/d/1AsVWKQNNnj-Npc3aMLpsRFCODqyKkbiR/view?usp=sharing)
 - [Tabela de bugs](https://drive.google.com/file/d/16mE1DO4HotHTbWeeG8khEWJOqoMZX_hO/view?usp=sharing)
 - [Tabela de API manual - Login](https://drive.google.com/file/d/1W_ATspBh8UBcv4V7cuM1Scigcb-YbRs2/view?usp=sharing)
-- [Tabela de API manual - Cadastro](https://drive.google.com/file/d/1S4DqHpkqucggu8h-VbeX8xOE6FSBkbll/view?usp=sharing)
+- [Tabela de API manual - Cadastro](https://drive.google.com/file/d/1jyXJ_uF7lpGGOYOvU2UZC3Tp3SHeXag7/view?usp=sharing)
 
 ---
 
