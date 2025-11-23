@@ -8,18 +8,18 @@
 ---
 
 ## 📊 Documentação de Testes (Tabelas)
-- [Tabela de Casos de Teste - Cadastro 1 - linguagem Gherkin](file:///C:/Users/carva/Downloads/TABELA%20DE%20PLANO%20DE%20TESTES%20-%20CADASTRO%20CHERKIN.pdf)
-- [Tabela de Casos de Teste - Login - linguagem Gherkin](file:///C:/Users/carva/Downloads/Planilha%20sem%20t%C3%ADtulo%20-%20LOGIN.pdf)
-- [Tabela de Casos de Teste - Checkout - linguagem Gherkin](file:///C:/Users/carva/Downloads/Planilha%20sem%20t%C3%ADtulo%20-%20CHECKOUT.pdf)
-- [Tabela de Casos de Teste - idade linguagem tradicional](file:///C:/Users/carva/Downloads/TABELA%20DE%20PLANO%20DE%20TESTES%20DE%20IDADE.pdf)
-- [Tabela de Casos de Teste - Cadastro 2 - linguagem tradicional](file:///C:/Users/carva/Downloads/TABELA%20DE%20CASOS%20DE%20TESTES%20-CADASTRO%20LINGUAGEM%20TRADICIONAL.pdf)
-- [Tabela de Casos de Teste simples de UI automatizado - (cypress)](file:///C:/Users/carva/Downloads/TABELA%20DE%20TESTES%20SIMPLES%20DE%20UI%20AUTOMATIZADO%20(CYPRESS).pdf)
-- [Tabela de decisão checkout](file:///C:/Users/carva/Downloads/TABELA%20DE%20DECIS%C3%83O%20CHECKOUT.pdf)
-- [Tabela de valor limite](file:///C:/Users/carva/Downloads/TABELA%20DE%20VALOR%20LIMITE.pdf)
-- [Tabela de partição de equivalência](file:///C:/Users/carva/Downloads/TABELA%20DE%20%20PARTI%C3%87%C3%83O%20DE%20EQUIVAL%C3%8ANCIA.pdf)
-- [Tabela de bugs](file:///C:/Users/carva/Downloads/TABELA%20DE%20BUGS%20FICTICIO.pdf)
-- [Tabela de API manual de login](file:///C:/Users/carva/Downloads/TABELA%20DE%20API%20%20MANUAL%20DE%20LOGIN.pdf)
-- [Tabela de API manual de cadastro](file:///C:/Users/carva/Downloads/TABELA%20DE%20API%20%20MANUAL%20DE%20CADASTRO%20(3).pdf)
+- [Tabela de Casos de Teste - Cadastro 1 - linguagem Gherkin](https://drive.google.com/file/d/1MIP9zZ2oU3Jpij1wNis-fGtId6Vgzaws/view?usp=sharing)
+- [Tabela de Casos de Teste - Login - linguagem Gherkin](https://drive.google.com/file/d/1-9LJ1eCzNHKnjWgdBQwnIQygjbmmJcOq/view?usp=sharing)
+- [Tabela de Casos de Teste - Checkout - linguagem Gherkin](https://drive.google.com/file/d/1maN1vuM-m0Wmk_OKe7mwKr9t2RjiAJTM/view?usp=sharing)
+- [Tabela de Casos de Teste - idade linguagem tradicional](https://drive.google.com/file/d/1Pdt0qInxVNJv1fPScop3M-OGlvLRx1Ee/view?usp=sharing)
+- [Tabela de Casos de Teste - Cadastro 2 - linguagem tradicional](https://drive.google.com/file/d/1s9tsUwrdzqy2F7rJbVT1fPrUqKO_ItZC/view?usp=sharing)
+- [Tabela de Casos de Teste simples de UI automatizado - (cypress)](https://drive.google.com/file/d/176T0XtdVzt7HvTJNnQAZskQzXDFZ_0Wt/view?usp=sharing)
+- [Tabela de decisão checkout](https://drive.google.com/file/d/1xy8tIghmEA7YfwESQMcGRe7wrl6OkQqC/view?usp=sharing)
+- [Tabela de valor limite](https://drive.google.com/file/d/1iq5hAYmG7HSiW58e1QOrvx7z4pgsSadu/view?usp=sharing)
+- [Tabela de partição de equivalência](https://drive.google.com/file/d/1WWn7jjpJQIWlxxc_W1-lc7q6VmYA5nyG/view?usp=sharing)
+- [Tabela de bugs](https://drive.google.com/file/d/10prIcu6nljqIbpkuRvP8kzbQXyWSgQt0/view?usp=sharing)
+- [Tabela de API manual de login](https://drive.google.com/file/d/1W_ATspBh8UBcv4V7cuM1Scigcb-YbRs2/view?usp=sharing)
+- [Tabela de API manual de cadastro](https://drive.google.com/file/d/1S4DqHpkqucggu8h-VbeX8xOE6FSBkbll/view?usp=sharing)
 
 ---
 
