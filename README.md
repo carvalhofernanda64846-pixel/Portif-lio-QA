@@ -11,7 +11,7 @@
 - [Tabela de Casos de Teste - Cadastro 1 - linguagem Gherkin](https://drive.google.com/file/d/1MIP9zZ2oU3Jpij1wNis-fGtId6Vgzaws/view?usp=sharing)
 - [Tabela de Casos de Teste - Login - linguagem Gherkin](https://drive.google.com/file/d/1-9LJ1eCzNHKnjWgdBQwnIQygjbmmJcOq/view?usp=sharing)
 - [Tabela de Casos de Teste - Checkout - linguagem Gherkin](https://drive.google.com/file/d/1maN1vuM-m0Wmk_OKe7mwKr9t2RjiAJTM/view?usp=sharing)
-- [Tabela de Casos de Teste - idade linguagem tradicional](https://drive.google.com/file/d/1Pdt0qInxVNJv1fPScop3M-OGlvLRx1Ee/view?usp=sharing)
+- [Tabela de Casos de Teste - idade - linguagem tradicional](https://drive.google.com/file/d/1Pdt0qInxVNJv1fPScop3M-OGlvLRx1Ee/view?usp=sharing)
 - [Tabela de Casos de Teste - Cadastro 2 - linguagem tradicional](https://drive.google.com/file/d/1s9tsUwrdzqy2F7rJbVT1fPrUqKO_ItZC/view?usp=sharing)
 - [Tabela de Casos de Teste simples de UI automatizado - (cypress)](https://drive.google.com/file/d/176T0XtdVzt7HvTJNnQAZskQzXDFZ_0Wt/view?usp=sharing)
 - [Tabela de decisão checkout](https://drive.google.com/file/d/1xy8tIghmEA7YfwESQMcGRe7wrl6OkQqC/view?usp=sharing)
