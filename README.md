@@ -10,7 +10,7 @@
 
 ## 📊 Documentação de Testes (Tabelas)
 
-- [Tabela de Casos de Teste - Cadastro 1 - Linguagem Gherkin](https://drive.google.com/file/d/17CtzjKjx31NNn70PC1r6fbr_uNQ1jxef/view?usp=sharing)
+- [Tabela de Casos de Teste - Cadastro 1 - Linguagem Gherkin](https://drive.google.com/file/d/1MIP9zZ2oU3Jpij1wNis-fGtId6Vgzaws/view?usp=sharing)
 - [Tabela de Casos de Teste - Login - Linguagem Gherkin](https://drive.google.com/file/d/1-9LJ1eCzNHKnjWgdBQwnIQygjbmmJcOq/view?usp=sharing)
 - [Tabela de Casos de Teste - Checkout - Linguagem Gherkin](https://drive.google.com/file/d/1maN1vuM-m0Wmk_OKe7mwKr9t2RjiAJTM/view?usp=sharing)
 - [Tabela de Casos de Teste - Idade - Linguagem Tradicional](https://drive.google.com/file/d/1adSY8xVQtb_056oqzzzSFqBH2ULhnewE/view?usp=sharing)
