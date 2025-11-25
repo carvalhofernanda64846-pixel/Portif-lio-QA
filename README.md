@@ -6,6 +6,8 @@
 
 - [Execução do Teste - Pesquisa](https://drive.google.com/file/d/1iIkooLwUhUbfzoeoQ8Ywy-7hnxO__VME/view?usp=sharing)
 
+- [Execução do Teste - Ecommerce](https://drive.google.com/file/d/1irkMd_w29L1wr3v4IdZxTIEnE9E2GDlP/view?usp=sharing)
+  
 
 ## 📊 Documentação de Testes (Tabelas)
 
@@ -15,6 +17,7 @@
 - [Tabela de Casos de Teste - Idade - Linguagem Tradicional](https://drive.google.com/file/d/1adSY8xVQtb_056oqzzzSFqBH2ULhnewE/view?usp=sharing)
 - [Tabela de Casos de Teste - Cadastro 2 - Linguagem Tradicional](https://drive.google.com/file/d/1s9tsUwrdzqy2F7rJbVT1fPrUqKO_ItZC/view?usp=sharing)
 - [Tabela de Casos de Teste simples - UI automatizado - (cypress)](https://drive.google.com/file/d/1INSDnpVV0ubX5rHj-gDPRgZZ8iA7GL13/view?usp=sharing)
+- [Tabela de Casos de Teste simples - UI automatizado/Ecommerce - (cypress)](https://drive.google.com/file/d/1ZWx4DWpoR-Ix2zKnzUx-MiGDQa7DmY6j/view?usp=sharing) 
 - [Tabela de decisão - checkout](https://drive.google.com/file/d/1xy8tIghmEA7YfwESQMcGRe7wrl6OkQqC/view?usp=sharing)
 - [Tabela de valor limite](https://drive.google.com/file/d/1iq5hAYmG7HSiW58e1QOrvx7z4pgsSadu/view?usp=sharing)
 - [Tabela de partição de equivalência](https://drive.google.com/file/d/1AsVWKQNNnj-Npc3aMLpsRFCODqyKkbiR/view?usp=sharing)
