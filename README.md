@@ -1,4 +1,4 @@
-# 🧪 Projeto de Testes Automatizados
+# 🧪 Projeto de Testes de UI Automatizados com Cypress
 
 ## 🚀 Execução dos Testes (Vídeos)
 
@@ -9,6 +9,33 @@
 - [Execução do Teste - Ecommerce](https://drive.google.com/file/d/1irkMd_w29L1wr3v4IdZxTIEnE9E2GDlP/view?usp=sharing)
 
 - [Execução do Teste - Cadastro](https://drive.google.com/file/d/1mJpF6Mhys5nOiMyl9n8lK438x6WELcVV/view?usp=sharing)
+
+
+
+# ✅ Testes de API - Postman (Manual e Automatizado)
+
+Projeto de testes de API realizado no Postman, aplicando testes manuais e automatizados em endpoints REST.
+
+## 🧪 Tipos de Testes Realizados:
+- ✅ Testes Manuais de API
+- ✅ Testes Automatizados com Scripts no Postman
+
+## 🔍 Validações Aplicadas:
+- Status Code (200, 201)
+- Estrutura da Resposta
+- Validação de campos no Body
+- Requisições GET e POST
+
+## 📁 Arquivo da Collection:
+- fer.postman_collection.json
+
+## 🛠 Ferramentas Utilizadas:
+- Postman
+- Testes Manuais de API
+- Scripts de Teste Automatizado
+  
+## Observação:
+- Este projeto utiliza uma API pública de testes para fins de estudo.
   
 
 ## 📊 Documentação de Testes (Tabelas)
