@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "c86cf53d-8345-4bab-bbe4-c7f2970d4d30",
+		"name": "fer",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49991646",
+		"_collection_link": "https://carvalhofernanda64846-8443013.postman.co/workspace/Fernanda-Carvalho's-Workspace~ab28b8f2-c46a-4bef-8b45-3a63f4c9ce67/collection/49991646-c86cf53d-8345-4bab-bbe4-c7f2970d4d30?action=share&source=collection_link&creator=49991646"
+	},
+	"item": [
+		{
+			"name": "API GET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "API POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
