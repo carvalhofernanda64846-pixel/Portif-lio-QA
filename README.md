@@ -1,4 +1,4 @@
-# 🧪 Projeto de Testes de UI Automatizados com Cypress
+# 🧪 Projeto de Testes de UI Automatizado com Cypress
 
 ## 🚀 Execução dos Testes (Vídeos)
 
