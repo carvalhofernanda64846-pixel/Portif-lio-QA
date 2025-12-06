@@ -1,0 +1,24 @@
+-- Lista de usuários criada para testes
+Ana, 22 anos, ana@email.com
+Bruno, 30 anos, bruno@email.com
+Carla, 27 anos, carla@email.com
+Diego, 19 anos, diego@email.com
+Eva, 25 anos, eva@email.com
+
+-------------------------------------
+
+-- SELECT para listar tudo
+SELECT * FROM usuarios;
+
+-- SELECT filtrando por idade
+SELECT nome FROM usuarios WHERE idade > 25;
+
+-- SELECT filtrando por email (buscar e-mail da Ana)
+SELECT email FROM usuarios WHERE nome = 'Ana';
+
+-- SELECT para listar somente os e-mails de todos os usuários
+SELECT email FROM usuarios;
+
+-------------------------------------
+
+Obs: Testes feitos no SQLite (ambiente de estudos)
