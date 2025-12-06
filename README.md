@@ -57,7 +57,8 @@ Foi criada uma tabela com 5 usuários fictícios, Cada um com nome, idade e e-ma
 ### 🎯 Objetivo
 Praticar leitura, escrita e interpretação de consultas SQL, habilidade importante para validar dados retornados por sistemas e APIs.
 
-📁 Arquivo da Coleção:
+### 📁 Arquivo da Coleção:
+- testes_sql.txt.txt
 
 
 ### 🛠 Ferramenta Utilizada
