@@ -39,6 +39,28 @@ Projeto de testes de API realizado no Postman, aplicando testes manuais e automa
 - Este projeto utiliza uma API pública de testes para fins de estudo.
   
 
+  
+# 🧪 Testes SQL – Validação de Dados
+
+Realizei testes manuais utilizando SQL para praticar validação de dados diretamente no banco. Para isso, criei uma tabela fictícia chamada usuarios, contendo nome, idade e e-mail. Após a criação da tabela, executei consultas SQL para confirmar se os dados estavam sendo retornados corretamente.
+
+### 📋 Cenário Criado
+Foi criada uma tabela com 5 usuários fictícios, Cada um com nome, idade e e-mail.
+
+### 🔍 Testes Realizados
+- Seleção de todos os usuários cadastrados
+- Busca por um usuário específico pelo nome
+- Filtro por idade
+- Verificação de e-mails presentes na tabela
+- Validação dos dados inseridos
+
+### 🎯 Objetivo
+Praticar leitura, escrita e interpretação de consultas SQL, habilidade importante para validar dados retornados por sistemas e APIs.
+
+### 🛠 Ferramenta Utilizada
+As consultas foram executadas no site: sqliteonline.com
+  
+
 ## 📊 Documentação de Testes (Tabelas)
 
 - [Tabela de Casos de Teste - Cadastro 1 - Linguagem Gherkin](https://drive.google.com/file/d/1MIP9zZ2oU3Jpij1wNis-fGtId6Vgzaws/view?usp=sharing)
